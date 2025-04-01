@@ -1,5 +1,5 @@
 # 🦇 Hey there I'm Kushagra, an aspiring MERN stack dev with proficiency in AWS Cloud and Docker
-🔭 Currently working as a Backend Dev intern<br>🤝 I’m looking to collaborate on exciting projects<br>🌱 I’m currently ReactJS<br>
+🔭 Currently working as a Backend Dev intern<br>🤝 I’m looking to collaborate on exciting projects<br>🌱 I’m currently learning ReactJS and MongoDB to complete the MERN Tech stack<br>
 
 
 ## 🌐 Socials:
