@@ -1,4 +1,4 @@
-# 🦇 I'm Kushagra, an aspiring Full Stack developer with proficiency in AWS Cloud,Docker and DevOps
+# Hey there, I'm Kushagra, an aspiring Full Stack developer with proficiency in AWS Cloud,Docker and DevOps
 🔭 Currently working on building projects and acquiring certifications<br>🤝 Actively seeking internships and looking to collaborate on exciting projects<br>👨‍💻 I’m currently learning ReactJS along with ReactNative to dive into mobile app development<br>🎯 Tackling leetcode problems on a daily basis
 
 
