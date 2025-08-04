@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kushaagrabisht) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushagra-bisht-29984b27a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kushagrabisht10@gmail.com) 
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/kushaagrabisht) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushagra-bisht-29984b27a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kushagrabisht10@gmail.com) 
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,react,nodejs,express,mongodb,aws,docker,kubernetes,git,github,htmx,linux,mysql,notion,npm,postman,py,supabase,vite,vscode,webstorm&perline=8)](https://skillicons.dev)
