@@ -1,4 +1,4 @@
-# Hey there, I'm Kushagra, a Full Stack developer with proficiency in AWS Cloud,Docker and DevOps
+![Header](./github-header-banner.png)
 🔭 Currently working on building projects and acquiring certification<br>🤝 Actively seeking internships and looking to collaborate on exciting projects<br>👨‍💻 I’m currently building a subscription tracking backend project<br>🎯 Tackling leetcode problems on a daily basis
 
 
